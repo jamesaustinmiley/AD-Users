@@ -1,6 +1,5 @@
 <p align="center">
-<img src="<img width="256" height="256" alt="PowerShell_Core_6 0_icon" src="https://github.com/user-attachments/assets/421e88cc-cf5c-432a-bd8f-6a506bf9bc5d" />
-" alt="Microsoft Active Directory Logo"/>
+
 </p>
 
 <h1>Creating AD Users with PowerShell (Azure)</h1>
