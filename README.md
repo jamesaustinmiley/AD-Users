@@ -1,15 +1,11 @@
-# Creating Users with PowerShell
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="<img width="256" height="256" alt="PowerShell_Core_6 0_icon" src="https://github.com/user-attachments/assets/421e88cc-cf5c-432a-bd8f-6a506bf9bc5d" />
+" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Creating AD Users with PowerShell (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,13 +18,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Windows Server 2022
 - Windows 10 (21H2)
-
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
 
 <h2>Deployment and Configuration Steps</h2>
 
